@@ -1,0 +1,113 @@
+.tmawsc_header_content {
+  margin: 20px 0;
+}
+
+td.tmaws-table__td-thumb img {
+  width: 100px;
+}
+
+table.tmaws-table th, table.tmaws-table td {
+  padding: 10px;
+}
+
+.tmaws-button{ 
+  border-color: #9c7e31 #90742d #786025!important;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 0 hsla(0,0%,100%,.4);
+  background: #f0c14b;
+  background: linear-gradient(180deg,#f7dfa5,#f0c14b) repeat scroll 0 0 transparent;
+  color: #111!important;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.tmaws-button::before{
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-size: 14px 14px;
+  background-position: 9px;
+  background-image: url(../../../plugins/tmaws_campaign/css/icon-cart-black.svg);
+}
+ 
+.tmawsc_product_table {
+  margin: 20px 0;
+}
+
+.tmawsc_beforeList {
+  margin: 20px 0;
+}
+
+.tmawsc_product {
+  margin: 20px 0;
+}
+
+.tmawsc_productimage {
+  text-align: center;
+  padding: 20px;
+  display: block;
+  margin: 20px 0;
+}
+
+.tmawsc_productimage a.amazonbuybutton {
+  display: inline-block;
+}
+
+.tmawsc_productfeatures p strong, .tmawsc_additional p strong, .tmawsc_product_description p strong, .tmawsc_product_ratings p strong {
+  font-size: 20px;
+}
+
+table.tmawsc_technicaltable {
+  width: 100%;
+}
+
+table.tmawsc_technicaltable td, table.tmawsc_technicaltable th {
+  padding: 10px;
+  border: 1px solid #eee;
+}
+
+table.tmawsc_technicaltable {
+  margin: 20px 0;
+}
+
+a.tmaws-button {
+  margin: 20px 0;
+  display: inline-block;
+}
+
+.tmawsc_product {
+  border-bottom: 2px solid #ddd;
+}
+
+.tmawsc_afterList {
+  margin: 20px 0;
+}
+
+.tmawsc_buy_guide {
+  margin: 20px 0;
+}
+
+.tmawsc_center {
+  text-align: center!important;
+}
+
+.tmawsc_productimage {
+  text-align: center !important;
+}
+
+.tmawsc_amazon_content h2 {
+  text-transform: capitalize;
+}
+
+.featured-image {
+  text-align: center;
+}
+
+ 
